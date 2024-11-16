@@ -1,7 +1,7 @@
 # ProtoSheet
 
 ProtoSheet (C)Copyright Stephen Goldsmith 2006-2024. All rights reserved.
-Version 3.3.0 last updated November 2024
+
 Distributed at http://aircraftsystemsafety.com/code/
 
 Eclipse Public License - v 2.0
